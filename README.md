@@ -1,11 +1,7 @@
 # 90's Motivational Poster
 
-## App Brewery Bootcamp
+## Using GitHub Pages
 
-  TODO: Create a motivational post website.
-Style it how ever you like. 
-Look at the goal image for inspiration.
-But it must have the following features:
 1. The main h1 text should be using the Regular Libre Baskerville Font from Google Fonts:
   https://fonts.google.com/specimen/Libre+Baskerville
 2. The text should be white and background black.
